@@ -1,16 +1,40 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Lautaro Luna
 
-<!--
-**lautarolunaa00/lautarolunaa00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desarrollador Full Stack | San Miguel de Tucumán, Argentina 📍
 
-Here are some ideas to get you started:
+Soy un apasionado por la programación, enfocado en crear experiencias web escalables, responsivas y con código 100% semántico. Actualmente me estoy formando en Rolling Code y construyendo proyectos modernos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tecnologías y Herramientas
+
+**Frontend:**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+**Backend & Bases de Datos:**
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**Deploy & Control de Versiones:**
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+### 🚀 Mis Proyectos
+*   **[Dropship Pro](https://dropship-pro-chi.vercel.app/)**: Aplicación web en producción lanzada a través de Vercel.
+*   **The Vault**: (https://the-vault-seven-tau.vercel.app/) - Bóveda de prompts para empresas y emprendedores.
+*   **LS Suplements**: *(En desarrollo)* - Proyecto con CSS personalizado.
+
+---
+
+### 📚 Aprendiendo actualmente
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+*Preparándome para dominar las bases y la lógica profunda de JS.*
+
+---
+
+### 📫 Conectemos
+**Email:** lautaroolunaa18@gmail.com
