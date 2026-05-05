@@ -24,8 +24,8 @@ Soy un apasionado por la programación, enfocado en crear experiencias web escal
 ---
 
 ### 🚀 Mis Proyectos
-*   **[Dropship Pro](https://dropship-pro-chi.vercel.app/)**: Aplicación web en producción lanzada a través de Vercel.
-*   **The Vault**: (https://the-vault-seven-tau.vercel.app/) - Bóveda de prompts para empresas y emprendedores.
+*   **Dropship Pro**: *(En desarrollo)* Aplicación web con IA en producción lanzada a través de Vercel.
+*   **The Vault**: *(En desarrollo)* - Bóveda de prompts con IA para empresas y emprendedores.
 *   **LS Suplements**: *(En desarrollo)* - Proyecto con CSS personalizado.
 
 ---
