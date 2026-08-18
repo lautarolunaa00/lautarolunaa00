@@ -34,7 +34,7 @@ Soy un apasionado por el desarrollo web y la tecnología, enfocado en construir 
 
 ### 🚀 Mis Proyectos
 
-*   🎮 **Game Zone (Cultura Conectada)**: SPA moderna desarrollada con React, React Router y Tailwind CSS con rutas dinámicas (`/contenido/:id`), layouts compartidos y filtrado en tiempo real.
+
 *   📦 **Dropship Pro**: *(En desarrollo)* Aplicación web potenciada con IA en producción desplegada en Vercel.
 *   🔐 **The Vault**: *(En desarrollo)* Bóveda de prompts y soluciones con IA para optimización de tareas y negocios.
 *   💪 **LS Supplements**: Proyecto web con diseño responsivo y estilos avanzados en CSS/Bootstrap.
