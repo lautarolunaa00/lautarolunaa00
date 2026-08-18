@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Lautaro Luna
 
-### Desarrollador Frontend / Full Stack | San Miguel de Tucumán, Argentina 📍
+### Desarrollador Full Stack | San Miguel de Tucumán, Argentina 📍
 
 Soy un apasionado por el desarrollo web y la tecnología, enfocado en construir Single Page Applications (SPA) y aplicaciones modernas, escalables y con código limpio, semántico y responsive. Me apoyo activamente en herramientas de Inteligencia Artificial avanzadas para optimizar flujos de trabajo, arquitectura y rendimiento. Actualmente formándome en Rolling Code School.
 
